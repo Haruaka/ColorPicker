@@ -1,0 +1,15 @@
+{
+    "questions": [
+        {
+            "colorID": 1,
+            "question": "",
+            "choices": [{
+                "name": "",
+                "rewards": [{
+                    "id": 1,
+                    "points": 1
+                }]
+            }]
+        }
+    ]
+}
