@@ -1,15 +1,100 @@
 {
     "questions": [
         {
-            "color": 1,
-            "question": "",
-            "choices": [{
-                "name": "",
-                "rewards": [{
-                    "id": 1,
-                    "points": 1
-                }]
-            }]
+            "color": 10,
+            "question": "Pick a sin that best suits you.",
+            "choices": [
+                {
+                    "name": "Lust",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 6, "points": 1}]
+                },
+                {
+                    "name": "Gluttony",
+                    "rewards": [{ "id": 5, "points": 1}]
+                },
+                {
+                    "name": "Greed",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Sloth",
+                    "rewards": [{ "id": 9, "points": 1}]
+                },
+                {
+                    "name": "Wrath",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 7, "points": 1}]
+                },
+                {
+                    "name": "Envy",
+                    "rewards": [{ "id": 3, "points": 1}]
+                },
+                {
+                    "name": "Pride",
+                    "rewards": [{ "id": 8, "points": 1}, { "id": 10, "points": 1}]
+                }
+        ]},
+        {
+            "color": 11,
+            "question": "Pick a virtue that best suits you.",
+            "choices": [
+                {
+                    "name": "Chastity",
+                    "rewards": [{ "id": 7, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Temperance",
+                    "rewards": [{ "id": 9, "points": 1}]
+                },
+                {
+                    "name": "Charity",
+                    "rewards": [{ "id": 6, "points": 1}]
+                },
+                {
+                    "name": "Diligence",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 10, "points": 1}]
+                },
+                {
+                    "name": "Patience",
+                    "rewards": [{ "id": 3, "points": 1}, { "id": 8, "points": 1}]
+                },
+                {
+                    "name": "Kindness",
+                    "rewards": [{ "id": 4, "points": 1}]
+                },
+                {
+                    "name": "Humility",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 5, "points": 1}]
+                }
+        ]},
+        {
+            "color": 2,
+            "question": "What's your preferred social media application?",
+            "choices": [
+                {
+                    "name": "Facebook",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Twitter",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 5, "points": 1}]
+                },
+                {
+                    "name": "Instagram",
+                    "rewards": [{ "id": 3, "points": 1}, { "id": 6, "points": 1}]
+                },
+                {
+                    "name": "Snapchat",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 7, "points": 1}]
+                },
+                {
+                    "name": "Reddit",
+                    "rewards": [{ "id": 8, "points": 1}, { "id": 9, "points": 1}]
+                },
+                {
+                    "name": "LinkedIn",
+                    "rewards": [{ "id": 10, "points": 1}]
+                }
+            ]
         }
     ]
 }

@@ -3,7 +3,68 @@
         {
             "id": 1,
             "name": "red",
-            "result": ""
+            "hexcode": "#FF0000",
+            "result": "A person colored by red is one with passion and determination. You’re a confident person. You’re strong and you won’t back down from any challenge. Most importantly, you stick to your goals. Nothing gets in your way, but if something were there you’d just blast it away. You’re a fast person. You get things done. This speed is what drives you forward, but you must watch out. You often act without thinking first and sometimes, you’re too fast for your friends to catch up. Temper this nature of yours and you’ll be a force to be reckoned with."
+        },
+        {
+            "id": 2,
+            "name": "orange",
+            "hexcode": "#FF8400",
+            "result": "A person colored by orange is one with an adventurous spirit. You have a unique interest in the world around you. You’re not bogged down any experiences in the past and you’re always willing to try something new. Your extroverted nature makes you the life of all parties. Many of your friends describing you as an outgoing, fun person to hang around with. All this activity makes it difficult for you to sit still. If you want to continue burning strong, you should give yourself some time to relax and recollect yourself."
+        },
+        {
+            "id": 3,
+            "name": "yellow",
+            "hexcode": "#FFF700",
+            "result": "A person colored by yellow is one with a bright smile on their face. You’re optimistic. You’re chipper and you bring a positive attitude everywhere you go. To your friends, you’re a delightful person talk with and your encouraging nature always makes them try to be better. Your radiance is infectious and paints you as the brightest star in the night sky. However, you must take caution. The brightest star is also the star that burns out the fastest. Your tendency to bottle all your troubles in will cause you to quickly collapse, so try letting some of it out."
+        },
+        {
+            "id": 4,
+            "name": "green",
+            "hexcode": "#00FF11",
+            "result": "A person colored by green is one that carries a big heart. You’re kind. You don’t judge, and you’re always ready to lend an hear to someone. You’re open to others and in return, they open their heart to you. You place a high value in friendship and in time, plenty of these evolve into long-lasting ones. You share their happiness when they succeed. You cry for them when they fail. You want everyone to succeed, but this wish of yours is what makes you overbearing to others. Sometimes, you just need to step back and let your companions succeed on their own. Direct that attention onto yourself. "
+        },
+        {
+            "id": 5,
+            "name": "blue",
+            "hexcode": "#0022FF",
+            "result": "A person colored by blue is one that skips around like a free spirit. You sing your own tune. You’re honest and you don’t judge. You treasure what your heart desires. To you, the value in life comes with enjoy all the pleasures around you. You’re capable of getting any job done if it doesn’t hinder your personal desires. You’re carefree, but this freedom of yours will hinder your ability to form strong connections with those around you. You often move sporadically, making it difficult for anyone to truly understand what you’re thinking. Ground yourself. Look at those trying to reach you and lend them a hand. A journey is more fun with others."
+        },
+        {
+            "id": 6,
+            "name": "purple",
+            "hexcode": "#BF00FF",
+            "result": "A person colored by purple is one in tune with their inner self. Your mind is composed. You have a strong understanding of your emotions and you’re often thought of as mature. You’re also attuned to the world around you. It makes you quite empathetic and you’re able to sense another’s emotion fluctuations. Because of this, your friends can count on you to be there when they need you the most. However, this strong connection of yours is your fatal flaw. You relate to the plights of many, making it easy for others to take advantage of you. Instead of doubting or trusting everyone, save your energy and analyze the situation. You’ll find a solution that meets everyone’s goals. "
+        },
+        {
+            "id": 7,
+            "name": "pink",
+            "hexcode": "#FF00B3",
+            "result": "A person colored by pink is one filled with energy. You’re playful. You’re fun to be around and you’re always motivated to try something new. Despite what others may think, you’re easily capable of settling down to protect the people around you. You absolutely adore animals, children and anything that can be associated with the word “adorable” and many drop their guards around you. You carry a lovely, charming aura, but this charm and affection of yours makes it difficult for you to grasp the cold reality of the world. You get overwhelmed easily and logic is difficult for you to comprehend. That is fine. Don’t be ashamed of these weaknesses. Take advantages of your strengths and use it to get the job done."
+        },
+        {
+            "id": 8,
+            "name": "brown",
+            "hexcode": "#6E370D",
+            "result": "A person colored by brown has a strong foundation. You’re an immovable wall. You’re powerful and you can be trusted to get any job done… in a timely manner. When faced with an unexpected situation, you know how to keep a calm mind. You can guide others, and if you must, you can stand your ground to protect those you care about. You are a steady person, but you are also quite slow to adjust in this fast-paced world. You often need time to digest the details instead of making a quick change, yet this is the reason why many call you stubborn. Perhaps at times, it is worth to relent and give an idea a try. You must take advantage of the opportunity before it becomes too late. "
+        },
+        {
+            "id": 9,
+            "name": "grey",
+            "hexcode": "#8C8C8C",
+            "result": "A person colored by grey carries a brilliant mind. You’re intelligent and practical. Many even call you mature. You trust the facts more than emotions, and you understand your limits. You are not arrogant, and you speak to other in an honest manner. You can concede when the logic is stacked against you and you’re always willing to learn more about what you don’t know. It seems like you have everything under control, but you tend to rub people the wrong way with your words. Your blunt words don’t help the matter. What you need to do is look at your thinking in another manner. Emphasize more, and you shall see more of your ideas come to fruition. "
+        },
+        {
+            "id": 10,
+            "name": "black",
+            "hexcode": "#000",
+            "result": "A person colored by black is one that thrives in the night. You’re sophisticated, confident and powerful. You know what you want, and you’ll do anything to get it. You radiate an aura that captivates others and you’re often supported by the strong following you built along the way. You have many connections and you sit at the top of your field, but you also made many sacrifices to get there. Your manipulative, sly nature makes it difficult for you to keep any long-loving relationships, and you constantly doubt others. What you need to remember is that Rome is not build alone. You need to put the effort to find strong, trustworthy allies who will help support your journey.  "
+        },
+        {
+            "id": 11,
+            "name": "white",
+            "hexcode": "#FFF",
+            "result": "A person colored by white is one who carries the heart of an angel. You’re kind. You’re passionate and you always try to do what’s right. You have a strong drive. You’re committed to your goals, and you just won’t give up. You’re a forgiving person. You believe in others, and you have faith that things will get better eventually. Your idealism is what makes you strong, but it’s also the one thing that others take advantage of. Dig deeper into the matter and put some doubt on things that are too good to be true. Place your effort where it counts, and you’ll come out of it as a stronger person. "
         }
     ]
 }
