@@ -1,36 +1,10 @@
 
 import React, {useState} from "react";
-import CssBaseline from '@material-ui/core/CssBaseline';
-import { makeStyles } from '@material-ui/core/styles';
-import { Grid } from '@material-ui/core';
-import Image from './assets/rainbow_vortex.png';
-import Paper from '@material-ui/core/Paper';
+import { Grid, CssBaseline, Paper } from '@material-ui/core';
 import StartQuiz from './components/StartQuiz'
 import QuestionsPage from './pages/QuestionsPage'
 import ResultsPage from './pages/ResultsPage'
-
-const useStyles = makeStyles((theme) => ({
-  root: {
-    height: '100vh',
-  },
-  image: {
-    backgroundImage: `url(${Image})`,
-    backgroundRepeat: 'no-repeat',
-    backgroundSize: 'cover',
-    backgroundPosition: 'center',
-  },
-  paper: {
-    margin: theme.spacing(8, 4),
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-  },
-  container: {
-    padding: '0 6vw',
-    margin: '0 20px',
-    height: '70vh',
-  }
-}));
+import { useStyles } from "./styles";
 
 export default function App() {
   const classes = useStyles();
@@ -63,8 +37,8 @@ export default function App() {
     <Grid container component="main" alignItems="center" justify="center" className={classes.root}>
       <Grid container className={classes.container}>
         <CssBaseline />
-        <Grid item xs={false} sm={5} md={6} className={classes.image}/>
-        <Grid item xs={12} sm={7} md={6} component={Paper} elevation={6}>
+        <Grid item xs={false} sm={5} md={5} className={classes.image}/>
+        <Grid item xs={12} sm={7} md={7} component={Paper} elevation={6}>
           {setPage()}
         </Grid>
       </Grid>

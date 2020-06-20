@@ -94,7 +94,151 @@
                     "name": "LinkedIn",
                     "rewards": [{ "id": 10, "points": 1}]
                 }
-            ]
-        }
+        ]},
+        {
+            "color": 5,
+            "question": "What's your kind of weather?",
+            "choices": [
+                {
+                    "name": "Burning hot, with an extra dose of bright sun outside",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 3, "points": 1}]
+                },
+                {
+                    "name": "Slight breezes and cloudy weather. No sun please.",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 5, "points": 1}, { "id": 7, "points": 1}]
+                },
+                {
+                    "name": "Soft, slow rainfall. Easily puts me to sleep.",
+                    "rewards": [{ "id": 6, "points": 1}]
+                },
+                {
+                    "name": "Large, loud thunderstorms rolling in. Makes things exciting!",
+                    "rewards": [{ "id": 2, "points": 1}]
+                },
+                {
+                    "name": "Gentle snowfall. I like the cold.",
+                    "rewards": [{ "id": 8, "points": 1}, { "id": 9, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Not a fan of the weather. I prefer the temperature indoors.",
+                    "rewards": [{ "id": 10, "points": 1}]
+                }
+        ]},
+        {
+            "color": 6,
+            "question": "No work, no school. It's your day off! How do you make the most out of your special day?",
+            "choices": [
+                {
+                    "name": "Go to the nearest bar with your homies",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 10, "points": 1}]
+                },
+                {
+                    "name": "Cozy up and read a book at home.",
+                    "rewards": [{ "id": 6, "points": 1}, { "id": 9, "points": 1}]
+                },
+                {
+                    "name": "Call up some friends to play a few rounds in your game of choice",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 5, "points": 1}]
+                },
+                {
+                    "name": "Get your self messy with some arts and crafts",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Binge the latest Netflix shows",
+                    "rewards": [{ "id": 3, "points": 1}, { "id": 7, "points": 1}]
+                },
+                {
+                    "name": "Take a nice shower, rest and go to bed early",
+                    "rewards": [{ "id": 8, "points": 1}]
+                }
+        ]},
+        {
+            "color": 9,
+            "question": "Your local bookstore seems to be having a special sale. You're in the mood for some books. What kind of book do you pick up?",
+            "choices": [
+                {
+                    "name": "A fantasy about a hero destined to stop the world from self-destructing",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 7, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "A thriller about a new police officer stalked by a mysterious figure",
+                    "rewards": [{ "id": 5, "points": 1}, { "id": 10, "points": 1}]
+                },
+                {
+                    "name": "A sci-fi about a fleet trying to return home after a catastrophic incident at a nearby star system",
+                    "rewards": [{ "id": 6, "points": 1}]
+                },
+                {
+                    "name": "A historical memoir about a young teenager who's fighting to protect his wartorn country",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 8, "points": 1}]
+                },
+                {
+                    "name": "A romance between a princess and her knight as their home faces an unexpected uprising",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 3, "points": 1}]
+                },
+                {
+                    "name": "An introspective analysis on human nature's capacity to do what they consider is good",
+                    "rewards": [{ "id": 9, "points": 1}]
+                }
+        ]},
+        {
+            "color": 3,
+            "question": "You and your friends are interested in watching a movie. How do you get your fix?",
+            "choices": [
+                {
+                    "name": "Visit your local movie theatre",
+                    "rewards": [{ "id": 3, "points": 1}, { "id": 6, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "Join your campus's weekly Movie Night event",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 7, "points": 1}]
+                },
+                {
+                    "name": "Check out what the rental store has",
+                    "rewards": [{ "id": 4, "points": 1}]
+                },
+                {
+                    "name": "Turn on the TV and see what they've got",
+                    "rewards": [{ "id": 8, "points": 1}]
+                },
+                {
+                    "name": "Grab the latest hits on Netflix",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 10, "points": 1}]
+                },
+                {
+                    "name": "Sail the high seas to find what you need",
+                    "rewards": [{ "id": 5, "points": 1}, { "id": 9, "points": 1}]
+                }
+        ]},
+        {
+            "color": 7,
+            "question": "You're planning to pick up a new game. What decides the type of character you'll play?",
+            "choices": [
+                {
+                    "name": "What is the character's playstyle?",
+                    "rewards": [{ "id": 5, "points": 1}, { "id": 6, "points": 1}]
+                },
+                {
+                    "name": "How meta is the character?",
+                    "rewards": [{ "id": 9, "points": 1}, { "id": 10, "points": 1}]
+                },
+                {
+                    "name": "How pretty is their design?",
+                    "rewards": [{ "id": 1, "points": 1}, { "id": 11, "points": 1}]
+                },
+                {
+                    "name": "How complicated is the character?",
+                    "rewards": [{ "id": 4, "points": 1}, { "id": 8, "points": 1}]
+                },
+                {
+                    "name": "How familiar is the character (or their archetype) to me?",
+                    "rewards": [{ "id": 3, "points": 1}]
+                },
+                {
+                    "name": "What does the coin say?",
+                    "rewards": [{ "id": 2, "points": 1}, { "id": 7, "points": 1}]
+                }
+        ]}
     ]
 }

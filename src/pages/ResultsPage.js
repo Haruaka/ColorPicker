@@ -1,17 +1,23 @@
 import React from "react";
-import { Button, Grid, Typography} from '@material-ui/core';
+import { Button, Typography } from '@material-ui/core';
+import { useStyles } from "../styles";
 
 export default function ResultsPage(props) {
-    function changePage() { props.change(0) }
+  const classes = useStyles();
+  function changePage() { props.change(0) }
 
   return (
-    <Grid container spacing={0} direction="column" alignItems="center" justify="center">
+    <div className={classes.content}>
       <Typography variant="h3" component="h1" gutterBottom>
-        RESULTS HERE
+        YOUR RESULTS
+      </Typography>
+      <Typography variant="h6" component="h2" gutterBottom style={{marginBottom:'5vh'}}>
+        WEEEEEE
       </Typography>
       <Button onClick={changePage} variant="contained" color="secondary">
-        Return
+        Retry
       </Button>
-    </Grid>
+    </div>
   );
 }
+

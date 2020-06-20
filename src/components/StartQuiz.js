@@ -1,24 +1,13 @@
 import React from "react";
-import { Button, Grid, Typography} from '@material-ui/core';
-import { makeStyles } from '@material-ui/core/styles';
-
-const useStyles = makeStyles((theme) => ({
-  paper: {
-    margin: theme.spacing(8, 4),
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    height: '50vh',
-  },
-}));
+import { Button, Typography} from '@material-ui/core';
+import { useStyles } from "../styles";
 
 export default function StartQuiz(props) {
   const classes = useStyles();
   function changePage(){ props.change(1) }
 
   return (
-    <div className={classes.paper}>
+    <div className={classes.content}>
       <Typography variant="h3" component="h1" gutterBottom>
         Color Picker
       </Typography>
