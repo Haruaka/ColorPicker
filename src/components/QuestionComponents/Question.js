@@ -8,7 +8,7 @@ export default function Question(props) {
   return (
     <div>
       <Typography variant="h4" component="h1" gutterBottom>
-        Question #{props.num}
+        Question #{props.index}
       </Typography>
       <Typography variant="h6" component="h2" gutterBottom style={{marginBottom:'3vh'}}>
         {props.name}
